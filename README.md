@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadexic I'm a contracted Jr Systems Administrator within the greater toronto area and seeking work in the field
+- 👋 Hi, I’m @shadexic
 
 - 💞️ I’m looking to collaborate on modernizing the espkey code by octosavvi that was abandoned by them a few years ago
 - 📫 you can reach me via my email at shadexic@gmail.com 
